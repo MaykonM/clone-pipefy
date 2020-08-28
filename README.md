@@ -9,7 +9,7 @@ ReactJS
 
 React drag n'drop
 
-# Clone this repository
+### Clone this repository
 $ git clone https://github.com/MaykonM/proffy.git
 
 ℹ️ How To Use
