@@ -15,4 +15,5 @@ $ git clone https://github.com/MaykonM/proffy.git
 ℹ️ How To Use
 
 $ yarn install
+
 $ yarns start
