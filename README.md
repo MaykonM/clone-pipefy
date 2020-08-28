@@ -1,6 +1,6 @@
 # clone-pipefy
-UI Clone do Pipefy
-![pipefy_clone](https://user-images.githubusercontent.com/33705104/91600094-c07e4900-e93d-11ea-85dc-0fef46e58b2b.png)
+## UI Clone do Pipefy
+![pipefy_clone](https://user-images.githubusercontent.com/33705104/91600260-0e934c80-e93e-11ea-8796-2c8c7ebee86f.png)
 
 Recriando a tela inicial de usuário do Pipefy com Reactjs e com drag n'drop.
 
