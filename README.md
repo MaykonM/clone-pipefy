@@ -4,3 +4,7 @@
 
 Recriando a tela inicial de usuário do Pipefy com Reactjs e com drag n'drop.
 
+### Como usar.
+
+yarn install - para instalar as dependencias.
+yarn start - para rodar o projeto no localhost.
