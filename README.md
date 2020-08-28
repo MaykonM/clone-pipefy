@@ -4,7 +4,7 @@
 
 ## Recriando a tela inicial de usuário do Pipefy.
 
-🚀 ### Technologies
+### Technologies
 ReactJS
 
 React drag n'drop
@@ -13,7 +13,7 @@ React drag n'drop
 $ git clone https://github.com/MaykonM/proffy.git
 
 
-ℹ️ How To Use
+### How To Use
 
 $ yarn install
 
