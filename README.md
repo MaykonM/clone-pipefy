@@ -10,7 +10,7 @@ ReactJS
 React drag n'drop
 
 ### Clone this repository
-$ git clone https://github.com/MaykonM/proffy.git
+$ git clone https://github.com/MaykonM/clone-pipefy.git
 
 
 ### How To Use
